@@ -37,6 +37,8 @@ Outputs are displayed on **7-segment displays** for validation.
 5. CPU results are shown on the board’s **7-segment displays** (`sseg.vhd`, `ssegALU3.vhd`).
 
 ## Images & Diagrams
+<img width="1390" height="434" alt="image" src="https://github.com/user-attachments/assets/497badae-dcdd-4177-bf4c-72ba57e6e80e" />
+<img width="1353" height="408" alt="image" src="https://github.com/user-attachments/assets/850f6973-3ebe-48b3-8848-53b52e87c24e" />
 
 
 ## Results
